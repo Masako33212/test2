@@ -1,4 +1,5 @@
 /*add_part.cc*/
+/* comment from local1 */
 #include <iostream>
 #include <fstream>
 #include <string>
