@@ -4,7 +4,7 @@
 #include <string>
 #include "partbook.pb.h"
 using namespace std;
- 
+/*test comment */ 
 // Iterates though all parts in the PartDetails and prints info about them.
 void ListParts(const tutorial::PartDetails& part_book) {
   for (int i = 0; i < part_book.part_size(); i++) {
