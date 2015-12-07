@@ -4,7 +4,7 @@
 #include <string>
 #include "partbook.pb.h"
 using namespace std;
- 
+/* comment */
 /* This function fills in a Part message based on user input.*/
 void PromptForPart(tutorial::Part* part) {
   cout << "Enter part ID number: ";
